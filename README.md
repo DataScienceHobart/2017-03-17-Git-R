@@ -30,7 +30,7 @@ Worldwide
 
 [VIDEO Happy Git and GitHub ](https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/)
 
-[BOOK R Packages (Chapter git)]( http://r-pkgs.had.co.nz/)
+[BOOK R Packages (Chapter git)](http://r-pkgs.had.co.nz/git.html)
 
 ## Cheatsheets
 
