@@ -32,6 +32,8 @@ Worldwide
 
 [BOOK R Packages (Chapter git)](http://r-pkgs.had.co.nz/git.html)
 
+Software Carpentry: http://swcarpentry.github.io/git-novice/
+
 ## Cheatsheets
 
 [RStudio IDE Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf)
